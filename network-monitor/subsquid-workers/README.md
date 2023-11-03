@@ -5,6 +5,8 @@
 
 Usage:
 
+Note: subsquid_workers - binary for macOS Apple M1
+
 ```
 subsquid_workers.py -w <worker_id_1> <worker_id_2>
 ```

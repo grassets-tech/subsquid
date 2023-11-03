@@ -4,10 +4,9 @@
 ## Quick worker nodes dashboard
 
 Usage:
- - Supports macOS only.
-   
+
 ```
-subsquid_workers -w <worker_id_1> <worker_id_2>
+subsquid_workers.py -w <worker_id_1> <worker_id_2>
 ```
 
 Output:
